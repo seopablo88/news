@@ -1,0 +1,8 @@
+User-agent: *
+Allow: 
+
+
+
+# Sitemap lokasi
+Sitemap: https://seopablo88.github.io/
+
